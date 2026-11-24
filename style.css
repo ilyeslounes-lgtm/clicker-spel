@@ -1,0 +1,30 @@
+
+body {
+    font-family: "Times New Roman", Times, serif;
+    background-color: #ffffff;
+    color: #000000;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+  }
+  
+  /* Den svarta terminalen högst upp hjälp av AI för vilken färg och font de använder */
+  #console {
+    background-color: #000000;
+    color: #ffffff;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 0.9rem;
+    padding: 10px 15px;
+    margin-bottom: 15px;
+  }
+  
+  #console p {
+    margin: 3px 0;
+  }
+  
+  .old-msg {
+    color: grey;
+  }
+  
+ 
+  
